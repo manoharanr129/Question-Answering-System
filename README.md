@@ -87,4 +87,4 @@ Feel free to **fork**, **raise issues**, or **submit PRs** to improve the system
 This project is licensed under the **manoharanr4104@gmail.com**. You are free to use and modify it.  
 ----
 ### Example Output Image
-![Question & Answer](Output 3.png)
+[Question & Answer](Output 3.png)
