@@ -84,4 +84,4 @@ Feel free to **fork**, **raise issues**, or **submit PRs** to improve the system
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**. You are free to use and modify it.  
+This project is licensed under the **manoharanr4104@gmail.com**. You are free to use and modify it.  
